@@ -10,7 +10,7 @@ echo "=============================================="
 
 # Configuration
 NGINX_UI_VERSION="v2.3.2"
-NGINX_UI_URL="https://github.com/0xJacky/nginx-ui/releases/download/${NGINX_UI_VERSION}/nginx-ui-linux-amd64.tar.gz"
+NGINX_UI_URL="https://github.com/0xJacky/nginx-ui/releases/download/${NGINX_UI_VERSION}/nginx-ui-linux-64.tar.gz"
 INSTALL_DIR="/opt/nginx-ui"
 CONFIG_DIR="/etc/nginx-ui"
 SERVICE_NAME="nginx-ui"
